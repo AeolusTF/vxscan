@@ -207,8 +207,8 @@ yunsuo
 Output
 --------
 The following is the AWVS scanner test website results    
-![image](https://github.com/al0ne/A-hunter/raw/master/logo.jpg)
-![image](https://github.com/al0ne/A-hunter/raw/master/logo2.jpg)
+![image](https://github.com/AeolusTF/vxscan/blob/master/logo.jpg)
+![image](https://github.com/AeolusTF/vxscan/blob/master/logo2.jpg)
 
 ```
 
